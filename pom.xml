@@ -91,13 +91,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.201.132.37:8081/repository/test-maven-releases</url>
+	      <url>http://13.201.132.37:8081/repository/test-maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.201.132.37:8081/repository/test-snapshot-releases</url>
+	      <url>http://13.201.132.37:8081/repository/test-snapshot-releases/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
